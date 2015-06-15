@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoAligner",
+		"Cucumber",
+		"Gherkin (Cucumber) Formatter",
+		"Gherkin-highlight-sublimetext",
+		"Git",
+		"Github Tools",
+		"More Layouts",
+		"Package Control",
+		"RailsGoToSpec",
+		"RubyFormat",
+		"Simple Rails Navigator",
+		"WordHighlight"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"always_show_path_on_tabs": true,
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Sodarized Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}
