@@ -1,0 +1,2 @@
+cd ~/Desktop
+./dotfile_things_i_want/dotfile/new_dotfiles_github/install.sh
